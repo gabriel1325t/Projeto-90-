@@ -95,3 +95,10 @@ header{
     margin-bottom: 20px;
     border-radius: 10px;
 }
+header{
+    background-color: #B92626 ;
+    padding: 40px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}/*Fechamento de header*
